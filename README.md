@@ -1,2 +1,5 @@
-# saper
-saper kit 2022
+# pyqt-saper-2022
+
+Игра "Сапер" на PyQt5
+
+*Курс Python Advanced*
